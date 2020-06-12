@@ -1,7 +1,3 @@
-https://malausma.opendesa.id
-https://thoyib-an.com
-https://kamasan.desa.id/index.php
-https://www.cisondari.desa.id
-http://desa.amartyacreative.com
-http://www.bojongemas.desa.id
-http://kendalpayak.com
+https://example.desa.id
+
+https://example.desa.id
